@@ -9,3 +9,4 @@ AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
  
 # Other sensitive data (like connection strings, OAuth tokens, etc.)
 OAUTH_TOKEN = "ya29.a0AfH6SMDGsC9GkDphdFpy5gD73Xj3Vjdwoiyc_olFxLmj8d3XjEjSHK7"
+#
